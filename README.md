@@ -2,6 +2,8 @@
 
 Watch algorithms work one step at a time, with a plain-language explanation of every step.
 
+**[Try it live](https://praveenindian.github.io/algo-visualizer/)**
+
 ![Quick sort in the visualizer](docs/sorting.png)
 
 Algorithms are easy to read about and hard to picture. This page plays each one as an animation you fully control: pause it, step backwards, drag the timeline, and read what is happening and why at every step while the matching line of pseudocode lights up.
@@ -33,7 +35,9 @@ Algorithms are easy to read about and hard to picture. This page plays each one 
 
 ## Run it
 
-There is nothing to install or build. Clone the repo and open `index.html` in a browser:
+The quickest way is the [live version](https://praveenindian.github.io/algo-visualizer/).
+
+To run it locally there is nothing to install or build. Clone the repo and open `index.html` in a browser:
 
 ```bash
 git clone https://github.com/praveenindian/algo-visualizer.git
